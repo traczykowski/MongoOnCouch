@@ -1,0 +1,2 @@
+Budowanie:
+mvn package appassembler:assemble
