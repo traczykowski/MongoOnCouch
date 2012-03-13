@@ -1,2 +1,2 @@
-Budowanie:
+Building project using Apache Maven:
 mvn package appassembler:assemble
